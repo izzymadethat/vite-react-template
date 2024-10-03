@@ -5,7 +5,7 @@ This repo is a template for building a Vite + React repo.
 ## How to clone this repo
 
 ```shell
-npx tiged izzymadethat/my-react-vite-template#main <new project name>
+npx tiged izzymadethat/vite-react-template#main <new project name>
 ```
 
 ### Cd into the folder & install the dependencies
